@@ -48,6 +48,9 @@ header,
 .btn-white {
   color: black !important;
 }
+#nav_bar .active {
+  background-color: #424f95 !important;
+}
 
 h6 {
   line-height: 1.7;
