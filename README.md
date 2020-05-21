@@ -1,6 +1,4 @@
 # resume
 
 
-### ZOOM EFFECTS <div class="mask flex-center">
-        <p class="white-text">Zoom effect</p>
-    </div>
+### Link to my resume site  [here] (https://platzmanfan.github.io/resume/)
